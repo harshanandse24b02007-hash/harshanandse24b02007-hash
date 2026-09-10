@@ -1,4 +1,10 @@
-## Hi there 👋
+
+# 👋 Hi, I'm Harshanand
+
+B.Tech Software Engineering — Third Year @ DTU 🎓  
+Building, learning & sharing projects on GitHub 💻  
+Exploring Open Source & Software Product Development 🌱  
+Currently diving deeper into AI Agents & Agentic AI 🚀
 
 <!--
 **harshanandse24b02007-hash/harshanandse24b02007-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
